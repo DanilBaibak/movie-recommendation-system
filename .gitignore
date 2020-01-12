@@ -1,0 +1,11 @@
+data/*
+!data/.gitkeep
+predictions/*
+!predictions/.gitkeep
+models/*
+!models/.gitkeep
+.DS_Store
+__pycache__/
+.ipynb_checkpoints
+*venv
+.idea/
