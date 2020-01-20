@@ -10,6 +10,8 @@ If we assume the items a user interacted with are positive examples, we can't be
   <img src="https://github.com/DanilBaibak/movie-recommendation-system/blob/master/images/triplets.png" width="300" title="hover text">
 </p>
 
+You can read more details in the [article on Medium](https://medium.com/@danil.baibak/building-recommendation-system-based-bayesian-personalized-ranking-using-tensorflow-2-1-b814d2704130).
+
 ## Data
 I will use the MovieLens dataset from one of the [kaggle competitions](https://www.kaggle.com/c/movie/data).
 
