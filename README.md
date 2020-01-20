@@ -20,7 +20,8 @@ For building the model we will user TensorFlow 2.1. Here is the schema of the ne
   <img src="https://github.com/DanilBaibak/movie-recommendation-system/blob/master/images/bpr_model.png" width="500" title="hover text">
 </p>
 
-
-
 ## Installation
 Simply run the command `make init`. It will set up the [virtual environment](https://docs.python.org/3.6/library/venv.html) and install all dependencies.
+
+## Google Colab
+Here is [Google Colab notebook](https://colab.research.google.com/drive/1rW3khQ_V87vyktRcpHC-RhOLf5idLHUn#scrollTo=-YlefzHpQVfE) with all code. You need just to set up your kaggle account for data access.
