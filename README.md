@@ -7,7 +7,7 @@ Quite often, we don't have explicit feedback for a given user-item interaction (
 If we assume the items a user interacted with are positive examples, we can't be sure that all other items are negative for the specific user. But still, we can assume the items without the interaction are negative samples. Now, we can sample our data into the triplets: a user, a positive item, a negative item ([source](https://arxiv.org/abs/1205.2618)):
 
 <p align="center">
-  <img src="https://github.com/DanilBaibak/movie-recommendation-system/blob/master/images/triplets.png" width="300" title="hover text">
+  <img src="https://github.com/DanilBaibak/movie-recommendation-system/blob/master/images/triplets.png" width="300" title="Triplets">
 </p>
 
 You can read more details in the [article on Medium](https://medium.com/@danil.baibak/building-recommendation-system-based-bayesian-personalized-ranking-using-tensorflow-2-1-b814d2704130).
